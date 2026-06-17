@@ -1,38 +1,34 @@
-# Hi, I'm Ramchetan Kattekota 👋
+# 🚀 Ramchetan Portfolio
 
-## About Me
+## 👨‍💻 About Me
+B.Tech Computer Science Engineering student  
+Interested in AI, Machine Learning, Python and Data Analytics  
 
-🎓 B.Tech Computer Science and Engineering Student
+---
 
-🤖 AI & Machine Learning Enthusiast
+## 🎯 Project 1: Number Guessing Game
+A simple Python game where user guesses a random number.
 
-🐍 Python Learner
+### Features:
+- Random number generation
+- Hints (Too high / Too low)
+- Attempt counter
 
-📊 Data Analytics Enthusiast
+### Tech:
+- Python
 
-🚀 Open to Internships and Learning Opportunities
+### Run:
+python guess_game.py
 
-## Certifications
+---
 
-* HP LIFE – AI for Beginners
-* Deloitte Data Analytics Job Simulation
-* Tata GenAI Job Simulation
-* Quantum Fundamentals
+## 📜 Certifications
+- HP LIFE – AI for Beginners  
+- Deloitte Data Analytics Job Simulation  
+- Tata GenAI Job Simulation  
+- Quantum Fundamentals  
 
-## Currently Learning
+---
 
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Python
-* Data Analytics
-
-## Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/venkata-ram-chetan-kattekota-aa3421417/
-
-GitHub:
-https://github.com/ramchetankattekota
-
-⭐ Thank you for visiting my GitHub profile!
+## 📌 Goal
+To build strong projects and get internships in AI/ML field.
