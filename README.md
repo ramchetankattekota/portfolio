@@ -1,23 +1,23 @@
 # 🚀 Ramchetan Portfolio
 
 ## 👨‍💻 About Me
-B.Tech Computer Science Engineering student  
-Interested in AI, Machine Learning, Python and Data Analytics  
+B.Tech Computer Science and Engineering student  
+Interested in Artificial Intelligence, Machine Learning, Python, and Data Analytics  
 
 ---
 
 ## 🎯 Project 1: Number Guessing Game
-A simple Python game where user guesses a random number.
+A simple Python game where the user guesses a random number selected by the computer.
 
-### Features:
+### ✨ Features:
 - Random number generation
-- Hints (Too high / Too low)
+- High / Low hints
 - Attempt counter
 
-### Tech:
+### 🛠 Tech Used:
 - Python
 
-### Run:
+### ▶ How to Run:
 python guess_game.py
 
 ---
@@ -30,5 +30,5 @@ python guess_game.py
 
 ---
 
-## 📌 Goal
-To build strong projects and get internships in AI/ML field.
+## 🎯 Goal
+To build strong real-world projects and get internships in AI/ML field.
